@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![github stats](https://github-readme-stats.vercel.app/api?username=tirthasheshpatel&show_icons=true&theme=radical)
+
 [![HitCount](http://hits.dwyl.com/tirthasheshpatel/tirthasheshpatel.svg)](http://hits.dwyl.com/tirthasheshpatel/tirthasheshpatel)
