@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Tirth, grad student in computer science. I am a core developer of [SciPy][3] and contribute to a few other open-source projects. I have previously participated in [GSoC 2020][4] with [PyMC][6] and [GSoC 2021][5] with SciPy.
+I am Tirth. I am a core developer of [SciPy][3] and contribute to a few other open-source projects. I have previously participated in [GSoC 2020][4] with [PyMC][6] and [GSoC 2021][5] with SciPy.
 
 [![LinkedIn: Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)][7]
 
