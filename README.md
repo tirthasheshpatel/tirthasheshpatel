@@ -2,6 +2,8 @@
 
 I am Tirth. I am a core developer of [SciPy][3] and contribute to a few other open-source projects. I have previously participated in [GSoC 2020][4] with [PyMC][6] and [GSoC 2021][5] with SciPy.
 
+Currently writing software to train deep learning models on large HPC clusters.
+
 [![LinkedIn: Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)][7]
 
 [4]: https://summerofcode.withgoogle.com/archive/2020/projects/6568118874275840
